@@ -5,10 +5,5 @@
 	"authors": ["mdondorff"],
 	"license": "MIT",
 	"dependencies": {
-	},
-	"subPackagePaths": [
-		{
-			"path": "subPackage1"
-		}
-	]
+	}
 }
