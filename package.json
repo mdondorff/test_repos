@@ -3,6 +3,7 @@
 	"description": "Test repository...",
 	"copyright": "Copyright © 2014, mdondorff",
 	"authors": ["mdondorff"],
+	"license": "MIT",
 	"dependencies": {
 	},
 	"subPackagePaths": [
