@@ -12,11 +12,8 @@
 			"packageDefinition": "subPackage1"
 		},
 		{
-			"name": "util",
-			"importPaths": [
-				"subPackage1/source"
-			],
-			"targetPath": "lib"
+			"name": "test_library",
+      "packageDefinition": "libs/generic_test_library"
 		}
 	]
 }
