@@ -5,5 +5,18 @@
 	"authors": ["mdondorff"],
 	"license": "MIT",
 	"dependencies": {
-	}
+	},
+	"subPackages": [
+		{
+			"name": "subPackage1",
+			"packageDefinition": "subPackage1"
+		},
+		{
+			"name": "util",
+			"importPaths": [
+				"subPackage1/source"
+			],
+			"targetPath": "lib"
+		}
+	]
 }
