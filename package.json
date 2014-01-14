@@ -9,11 +9,9 @@
 	},
 	"subPackages": [
 		{
-			"name": "subPackage1",
 			"packageDefinition": "subPackage1"
 		},
 		{
-			"name": "test_library",
       "packageDefinition": "libs/generic_test_library"
 		}
 	]
