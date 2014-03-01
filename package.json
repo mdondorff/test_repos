@@ -4,15 +4,15 @@
 	"copyright": "Copyright © 2014, mdondorff",
 	"authors": ["mdondorff"],
 	"license": "MIT",
-  "dependencies": {
-    "test_repos:subPackage1": "*"
-  },
+	"dependencies": {
+		"test_repos:subPackage1": "*"
+	},
 	"subPackages": [
 		{
 			"packageDefinition": "subPackage1"
 		},
 		{
-      "packageDefinition": "libs/generic_test_library"
+			"packageDefinition": "libs/generic_test_library"
 		}
 	]
 }
