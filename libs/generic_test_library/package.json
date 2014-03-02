@@ -3,7 +3,7 @@
 	"description": "General test library.",
 	"copyright": "Copyright © 2014, mdondorff",
 	"authors": ["mdondorff"],
-  "license": "MIT",
+	"license": "MIT",
 	"dependencies": {
 	}
 }

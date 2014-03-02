@@ -1,10 +1,9 @@
 {
-	"name": "subPackage1",
+	"name": "subpackage1",
 	"description": "Semi - Implicit sub package test #1",
 	"copyright": "Copyright © 2014, mdondorff",
 	"authors": ["mdondorff"],
 	"license": "MIT",
 	"dependencies": {
-		"vibe-d" : "~master"
 	}
 }
