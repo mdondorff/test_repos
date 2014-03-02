@@ -8,11 +8,7 @@
 		"test_repos:subPackage1": "*"
 	},
 	"subPackages": [
-		{
-			"packageDefinition": "subPackage1"
-		},
-		{
-			"packageDefinition": "libs/generic_test_library"
-		}
+		"subPackage1",
+		"libs/generic_test_library"
 	]
 }
